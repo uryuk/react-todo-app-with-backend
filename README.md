@@ -1,27 +1,23 @@
 # hexlet-todo
 
-Пример реализации ToDo-list на React.
+An example of ToDo-list на React.
 
 [Online](https://react-todo-app-with-backend.herokuapp.com/)
 
-## Участие
-
-- Обсуждение в канале [#hexlet-volunteers](https://slack-ru.hexlet.io) слака
-
-## Системные требования
+## Dependencies & Requirements
 
 - Node.js >= 14
 - npm >= 7
 - make >= 4 (optional)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
-## Установка
+## Setup
 
-```shell
-make setup
-make start
-# open http://localhost:5000
-```
+Install nodejs and npm on your machine
+
+Run the command below to get it working locally:
+
+npx @hexlet/react-todo-app-with-backend
 
 ---
 
