@@ -9,7 +9,7 @@ An example of ToDo-list на React.
 - Node.js >= 14
 - npm >= 7
 - make >= 4 (optional)
-- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) (optional)
 
 ## Setup
 
